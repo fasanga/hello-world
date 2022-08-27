@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
+    <p>Let us know if you any help.Call us on 5583657841 or email tvbbiz@gmail.com</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
