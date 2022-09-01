@@ -2,6 +2,7 @@
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.contact us at asangarf@gmail.com</p>
+    <p>Rene Asanga</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
