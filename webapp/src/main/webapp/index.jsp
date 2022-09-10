@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.contact us at asangarf@gmail.com for any questions</p>
-    <p>Rene Asanga</p>
+    <p>Please visit us as www.chariaid.org for more information about what we do</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
