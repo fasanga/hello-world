@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.contact us at asangarf@gmail.com for any questions</p>
-    <p>Please visit us as www.chariaid.org for more information about what we do</p>
+    <p>Please visit us at www.chariaid.org for more information about what we do or contact Kwesi and Dennis on 240-304-4597</p>
     <hr>
 
     <label for="email"><b>Email</b></label>
